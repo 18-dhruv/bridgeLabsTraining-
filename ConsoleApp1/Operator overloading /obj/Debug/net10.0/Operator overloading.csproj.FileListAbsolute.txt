@@ -1,0 +1,15 @@
+/Users/apple/Desktop/bridge labs /ConsoleApp1/Operator overloading /obj/Debug/net10.0/Operator overloading.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Desktop/bridge labs /ConsoleApp1/Operator overloading /obj/Debug/net10.0/Operator overloading.AssemblyInfoInputs.cache
+/Users/apple/Desktop/bridge labs /ConsoleApp1/Operator overloading /obj/Debug/net10.0/Operator overloading.AssemblyInfo.cs
+/Users/apple/Desktop/bridge labs /ConsoleApp1/Operator overloading /obj/Debug/net10.0/Operator overloading.csproj.CoreCompileInputs.cache
+/Users/apple/Desktop/bridge labs /ConsoleApp1/Operator overloading /obj/Debug/net10.0/Operator overloading.sourcelink.json
+/Users/apple/Desktop/bridge labs /ConsoleApp1/Operator overloading /bin/Debug/net10.0/Operator overloading
+/Users/apple/Desktop/bridge labs /ConsoleApp1/Operator overloading /bin/Debug/net10.0/Operator overloading.deps.json
+/Users/apple/Desktop/bridge labs /ConsoleApp1/Operator overloading /bin/Debug/net10.0/Operator overloading.runtimeconfig.json
+/Users/apple/Desktop/bridge labs /ConsoleApp1/Operator overloading /bin/Debug/net10.0/Operator overloading.dll
+/Users/apple/Desktop/bridge labs /ConsoleApp1/Operator overloading /bin/Debug/net10.0/Operator overloading.pdb
+/Users/apple/Desktop/bridge labs /ConsoleApp1/Operator overloading /obj/Debug/net10.0/Operator overloading.dll
+/Users/apple/Desktop/bridge labs /ConsoleApp1/Operator overloading /obj/Debug/net10.0/refint/Operator overloading.dll
+/Users/apple/Desktop/bridge labs /ConsoleApp1/Operator overloading /obj/Debug/net10.0/Operator overloading.pdb
+/Users/apple/Desktop/bridge labs /ConsoleApp1/Operator overloading /obj/Debug/net10.0/Operator overloading.genruntimeconfig.cache
+/Users/apple/Desktop/bridge labs /ConsoleApp1/Operator overloading /obj/Debug/net10.0/ref/Operator overloading.dll
