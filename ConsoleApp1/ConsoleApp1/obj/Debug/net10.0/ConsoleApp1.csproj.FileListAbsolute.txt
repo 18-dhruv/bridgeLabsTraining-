@@ -12,3 +12,18 @@
 /Users/apple/Desktop/ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.pdb
 /Users/apple/Desktop/ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.genruntimeconfig.cache
 /Users/apple/Desktop/ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/ref/ConsoleApp1.dll
+/Users/apple/Desktop/bridge labs /ConsoleApp1/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1
+/Users/apple/Desktop/bridge labs /ConsoleApp1/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.deps.json
+/Users/apple/Desktop/bridge labs /ConsoleApp1/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.runtimeconfig.json
+/Users/apple/Desktop/bridge labs /ConsoleApp1/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.dll
+/Users/apple/Desktop/bridge labs /ConsoleApp1/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.pdb
+/Users/apple/Desktop/bridge labs /ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Desktop/bridge labs /ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/apple/Desktop/bridge labs /ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.AssemblyInfo.cs
+/Users/apple/Desktop/bridge labs /ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/apple/Desktop/bridge labs /ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.sourcelink.json
+/Users/apple/Desktop/bridge labs /ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.dll
+/Users/apple/Desktop/bridge labs /ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/refint/ConsoleApp1.dll
+/Users/apple/Desktop/bridge labs /ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.pdb
+/Users/apple/Desktop/bridge labs /ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.genruntimeconfig.cache
+/Users/apple/Desktop/bridge labs /ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/ref/ConsoleApp1.dll

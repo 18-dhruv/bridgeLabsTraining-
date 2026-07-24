@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/apple/Desktop/bridge labs /ConsoleApp1/Operator overloading /Operator overloading.csproj",
-      "projectName": "Operator overloading",
-      "projectPath": "/Users/apple/Desktop/bridge labs /ConsoleApp1/Operator overloading /Operator overloading.csproj",
+      "projectUniqueName": "/Users/apple/Desktop/bridge labs /ConsoleApp1/Operator overloading /basics.csproj",
+      "projectName": "basics",
+      "projectPath": "/Users/apple/Desktop/bridge labs /ConsoleApp1/Operator overloading /basics.csproj",
       "packagesPath": "/Users/apple/.nuget/packages/",
       "outputPath": "/Users/apple/Desktop/bridge labs /ConsoleApp1/Operator overloading /obj/",
       "projectStyle": "PackageReference",
