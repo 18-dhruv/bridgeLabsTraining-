@@ -17,6 +17,49 @@ public class Array_2D {
     }
     print(matrix);
   }
+
+  public static IList<int> spiral(int[][] matrix)
+  {
+    List<int>list=new List<int>();
+    int top =0;
+    int bottom=0;
+    int left=matrix[0].Length;
+    int y=matrix.Length;
+    int i =0;
+    int j =0;
+    while(top<=bottom){
+      while(j<left ){
+        list.Add(matrix[i][j]);
+        j++;
+      }
+      j--;
+      left--;
+      i++;
+      while(i<y){
+        list.Add(matrix[i][j]);
+        i++;
+      }
+      j--;
+      i--;
+      Console.WriteLine(bottom);
+      while(j>=bottom){
+        list.Add(matrix[i][j]);
+        j--;
+      }
+      j++;
+      top++;
+      // while()
+      Console.WriteLine(j);
+      Console.WriteLine(i);
+      break;
+    }
+    return list;
+
+  }
+  
+  
+  
+  
   public static int[,] RectangularAraaydeep(int[,]matrix)
   {
     int[,] copy = new int[matrix.GetLength(0), matrix.GetLength(1)];
