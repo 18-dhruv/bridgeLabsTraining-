@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Runtime.InteropServices.JavaScript;
 using arrays;
-
+using Strings;
 namespace tickets
 {
 
@@ -45,7 +45,8 @@ namespace tickets
             //arrays.Array_2D.matrixIteration();
             // arrays.Array_2D.RectangularAraay(2, 2);
             // Operator_overloading.helloWorld.hello();
-            Pattern1.Patter.pattern4();
+            // Pattern1.Patter.pattern4();
+            Strings.Str.sentence();
         }
     }
 
