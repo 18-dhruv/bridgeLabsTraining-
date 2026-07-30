@@ -2,14 +2,13 @@ using System;
 
 public class Methods
 {
-    // 1. Simple method
+
     public void Greet()
     {
         Console.WriteLine("Hello");
         Console.WriteLine("How do you do?");
     }
 
-    // 2. Method with return value
     public static double ConvertKmToMiles(double km)
     {
         return km * 0.621371;
@@ -22,7 +21,7 @@ public class Methods
         return n * Factorial(n - 1);
     }
 
-    // 4. Count digits
+
     public static int CountDigits(int number)
     {
         int count = 0;
@@ -49,25 +48,12 @@ public class Methods
         return digits;
     }
 
-    // 6. Sum array
+
     public static int SumArray(int[] array)
     {
         int sum = 0;
         foreach (int num in array)
             sum += num;
         return sum;
-    }
-
-    public static void Main()
-    {
-        Methods obj = new Methods();
-        obj.Greet();
-
-        Console.WriteLine(ConvertKmToMiles(10));
-        Console.WriteLine(Factorial(5));
-
-        int number = 1234;
-        Console.WriteLine($"Digits: {CountDigits(number)}");
-        Console.WriteLine($"Sum: {SumArray(GetDigits(number))}");
     }
 }
