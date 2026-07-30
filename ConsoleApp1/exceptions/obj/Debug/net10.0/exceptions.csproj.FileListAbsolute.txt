@@ -1,0 +1,15 @@
+/Users/apple/Desktop/bridge labs /ConsoleApp1/exceptions/obj/Debug/net10.0/exceptions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Desktop/bridge labs /ConsoleApp1/exceptions/obj/Debug/net10.0/exceptions.AssemblyInfoInputs.cache
+/Users/apple/Desktop/bridge labs /ConsoleApp1/exceptions/obj/Debug/net10.0/exceptions.AssemblyInfo.cs
+/Users/apple/Desktop/bridge labs /ConsoleApp1/exceptions/obj/Debug/net10.0/exceptions.csproj.CoreCompileInputs.cache
+/Users/apple/Desktop/bridge labs /ConsoleApp1/exceptions/obj/Debug/net10.0/exceptions.sourcelink.json
+/Users/apple/Desktop/bridge labs /ConsoleApp1/exceptions/bin/Debug/net10.0/exceptions
+/Users/apple/Desktop/bridge labs /ConsoleApp1/exceptions/bin/Debug/net10.0/exceptions.deps.json
+/Users/apple/Desktop/bridge labs /ConsoleApp1/exceptions/bin/Debug/net10.0/exceptions.runtimeconfig.json
+/Users/apple/Desktop/bridge labs /ConsoleApp1/exceptions/bin/Debug/net10.0/exceptions.dll
+/Users/apple/Desktop/bridge labs /ConsoleApp1/exceptions/bin/Debug/net10.0/exceptions.pdb
+/Users/apple/Desktop/bridge labs /ConsoleApp1/exceptions/obj/Debug/net10.0/exceptions.dll
+/Users/apple/Desktop/bridge labs /ConsoleApp1/exceptions/obj/Debug/net10.0/refint/exceptions.dll
+/Users/apple/Desktop/bridge labs /ConsoleApp1/exceptions/obj/Debug/net10.0/exceptions.pdb
+/Users/apple/Desktop/bridge labs /ConsoleApp1/exceptions/obj/Debug/net10.0/exceptions.genruntimeconfig.cache
+/Users/apple/Desktop/bridge labs /ConsoleApp1/exceptions/obj/Debug/net10.0/ref/exceptions.dll
