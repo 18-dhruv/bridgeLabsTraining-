@@ -3,14 +3,25 @@ namespace bank;
 public class BankAccount
 {
     private string owner { get; set; }
-    private  double balance { get; set; }
+    protected  double balance { get; set; }
+
+    protected readonly double MinimumBal;
     private List<Transaction> transactions { get; set; }
-    public BankAccount(string name, double initialDeposit)
+    public BankAccount(string Name, double InitialDeposit)
     {
-        this.owner = name;
+        this.owner = Name;
         this.balance = 0;
         this.transactions = new List<Transaction>();
-        MakeDeposit(initialDeposit);
+        MakeDeposit(InitialDeposit);
+    }
+
+    public BankAccount(string Name, double InitialDeposit,double MinimumBal)
+    {
+        this.owner = Name;
+        this.balance = 0;
+        this.transactions = new List<Transaction>();
+        this.MinimumBal = MinimumBal;
+        MakeDeposit(InitialDeposit);
     }
     //MakeDeposit
     internal double MakeDeposit(double DepositAmmount)
@@ -38,6 +49,6 @@ public class BankAccount
         if (transactions.Count == 0) throw new NoTransaction("no transaction");
         return transactions;
     }
-    
+    public virtual void PerformEndMonthTransaction(){}
 }
 

@@ -7,20 +7,32 @@ namespace bank
    {
       public static void Main(string[] args)
       {
-         BankAccount bk = new BankAccount("herer", 180247);
-         try
-         {
-            Console.WriteLine(bk.MakeDeposit(1000));
-         }
-         catch (Exception e)
-         {
-            throw new ApplicationException("hello from error", e);
-         }
-
-         foreach(Transaction t in bk.GetAccountHistory())
-        {
-           Console.WriteLine(t.TransactionToString());
-        }
+        //  BankAccount bk = new BankAccount("herer", 180247);
+        //  try
+        //  {
+        //     Console.WriteLine(bk.MakeDeposit(1000));
+        //  }
+        //  catch (Exception e)
+        //  {
+        //     throw new ApplicationException("hello from error", e);
+        //  }
+        //
+        //  foreach(Transaction t in bk.GetAccountHistory())
+        // {
+        //    Console.WriteLine(t.TransactionToString());
+        // }
+        // var savings = new IntrestEarningAccount("Savings", 500);
+        // savings.PerformEndMonthTransaction();
+        //
+        // foreach (var t in savings.GetAccountHistory())
+        //    Console.WriteLine(t.TransactionToString());
+        // BankAccount account = new IntrestEarningAccount("Test", 10000);   // note: declared as BankAccount, not InterestEarningAccount
+        // account.PerformEndMonthTransaction();
+        //
+        // foreach (var t in account.GetAccountHistory())
+        //    Console.WriteLine(t.TransactionToString());
+        
+        
       }
    }
 
