@@ -1,0 +1,15 @@
+/Users/apple/Desktop/bridge labs /ConsoleApp1/oops/bin/Debug/net10.0/oops
+/Users/apple/Desktop/bridge labs /ConsoleApp1/oops/bin/Debug/net10.0/oops.deps.json
+/Users/apple/Desktop/bridge labs /ConsoleApp1/oops/bin/Debug/net10.0/oops.runtimeconfig.json
+/Users/apple/Desktop/bridge labs /ConsoleApp1/oops/bin/Debug/net10.0/oops.dll
+/Users/apple/Desktop/bridge labs /ConsoleApp1/oops/bin/Debug/net10.0/oops.pdb
+/Users/apple/Desktop/bridge labs /ConsoleApp1/oops/obj/Debug/net10.0/oops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Desktop/bridge labs /ConsoleApp1/oops/obj/Debug/net10.0/oops.AssemblyInfoInputs.cache
+/Users/apple/Desktop/bridge labs /ConsoleApp1/oops/obj/Debug/net10.0/oops.AssemblyInfo.cs
+/Users/apple/Desktop/bridge labs /ConsoleApp1/oops/obj/Debug/net10.0/oops.csproj.CoreCompileInputs.cache
+/Users/apple/Desktop/bridge labs /ConsoleApp1/oops/obj/Debug/net10.0/oops.sourcelink.json
+/Users/apple/Desktop/bridge labs /ConsoleApp1/oops/obj/Debug/net10.0/oops.dll
+/Users/apple/Desktop/bridge labs /ConsoleApp1/oops/obj/Debug/net10.0/refint/oops.dll
+/Users/apple/Desktop/bridge labs /ConsoleApp1/oops/obj/Debug/net10.0/oops.pdb
+/Users/apple/Desktop/bridge labs /ConsoleApp1/oops/obj/Debug/net10.0/oops.genruntimeconfig.cache
+/Users/apple/Desktop/bridge labs /ConsoleApp1/oops/obj/Debug/net10.0/ref/oops.dll

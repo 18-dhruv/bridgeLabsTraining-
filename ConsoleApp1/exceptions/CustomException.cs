@@ -3,21 +3,21 @@ using System;
 
 namespace practiceException
 {
-    public class ApplicationException : Exception
+    internal class ApplicationException : Exception
     {
 
-        public ApplicationException(string message) : base(message)
+       internal  ApplicationException(string message) : base(message)
         {
         }
 
-        public ApplicationException(string message, Exception inner) : base(message, inner)
+        internal ApplicationException(string message, Exception inner) : base(message, inner)
         {
         }
     }
 
-    public class InsuffiecientBalance : Exception
+  internal class InsuffiecientBalance : Exception
     {
-        public InsuffiecientBalance(string message) : base(message)
+      internal InsuffiecientBalance(string message) : base(message)
         {
         }
         
