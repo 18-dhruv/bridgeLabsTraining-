@@ -6,9 +6,9 @@ public class IntrestEarningAccount: BankAccount
 
     public override void PerformEndMonthTransaction()
     {
-        if (balance > 500)
+        if (Balance > 500)
         {
-            MakeDeposit(balance / 100 * 2);
+            MakeDeposit(Balance / 100 * 2);
         }
     }
 }

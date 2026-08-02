@@ -2,52 +2,46 @@ namespace bank;
 
 public class BankAccount
 {
-    private string owner { get; set; }
-    protected  double balance { get; set; }
+    private string Owner { get; set; }
+    protected  double Balance { get; set; }
 
     protected readonly double MinimumBal;
-    private List<Transaction> transactions { get; set; }
-    public BankAccount(string Name, double InitialDeposit)
-    {
-        this.owner = Name;
-        this.balance = 0;
-        this.transactions = new List<Transaction>();
-        MakeDeposit(InitialDeposit);
-    }
+    private List<Transaction> Transactions { get; set; }
+    public BankAccount(string name, double initialDeposit) : this(name, initialDeposit, 0) { }
 
-    public BankAccount(string Name, double InitialDeposit,double MinimumBal)
+    public BankAccount(string name, double initialDeposit,double minimumBal)
     {
-        this.owner = Name;
-        this.balance = 0;
-        this.transactions = new List<Transaction>();
-        this.MinimumBal = MinimumBal;
-        MakeDeposit(InitialDeposit);
+        this.Owner = name;
+        this.Balance = 0;
+        this.Transactions = new List<Transaction>();
+        this.MinimumBal = minimumBal;
+        MakeDeposit(initialDeposit);
     }
     //MakeDeposit
-    internal double MakeDeposit(double DepositAmmount)
+    internal double MakeDeposit(double depositAmmount)
     {
-        balance += DepositAmmount;
-        Transaction t = new Transaction(balance);
-        transactions.Add(t);
-        return balance;
+        Balance += depositAmmount;
+        Transaction t = new Transaction(Balance);
+        Transactions.Add(t);
+        return Balance;
     }
     //MakeWithdrawal
-    internal double MakeWithdrawal(double WithdrawalAmmount)
-    {
-        if (WithdrawalAmmount > balance)
+    internal double MakeWithdrawal(double withdrawalAmmount)
+    {   
+        if (Balance-withdrawalAmmount<MinimumBal)
         {
-            throw new InsufiecientBalance("balance is insuffiecient "+ balance);
+            throw new InsufiecientBalance("balance is insuffiecient "+ Balance);
         }
-        Transaction t = new Transaction(balance);
-        transactions.Add(t);
-        balance -= WithdrawalAmmount;
-        return balance;
+        Balance -= withdrawalAmmount;
+        Transaction t = new Transaction(Balance);
+        Transactions.Add(t);
+        return Balance;
     }
 
     internal List<Transaction> GetAccountHistory()
     {
-        if (transactions.Count == 0) throw new NoTransaction("no transaction");
-        return transactions;
+        if (Transactions.Count == 0) throw new NoTransaction("no transaction");
+        return Transactions;
     }
     public virtual void PerformEndMonthTransaction(){}
 }
