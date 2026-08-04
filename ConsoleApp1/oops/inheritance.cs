@@ -2,9 +2,7 @@ using System;
 
 namespace InheritanceDemo
 {
-    // ----------------------------
-    // 1. Animal Hierarchy
-    // ----------------------------
+  
     class Animal
     {
         public string Name { get; set; }
@@ -52,9 +50,7 @@ namespace InheritanceDemo
         }
     }
 
-    // ----------------------------
-    // 2. Employee Management
-    // ----------------------------
+  
     class Employee
     {
         public string Name { get; set; }
