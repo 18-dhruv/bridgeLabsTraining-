@@ -190,37 +190,6 @@ namespace OOPS2
         }
     }
 
-    class Program
-    {
-        static void Main()
-        {
-            BankAccount acc = new BankAccount("Dhruv", 1001);
-            if (acc is BankAccount) acc.Display();
-            BankAccount.GetTotalAccounts();
-
-            Book book = new Book("C# Programming", "Microsoft", "ISBN001");
-            if (book is Book) book.Display();
-            Book.DisplayLibraryName();
-
-            Employee emp = new Employee("Rahul", 101, "Software Engineer");
-            if (emp is Employee) emp.Display();
-            Employee.DisplayTotalEmployees();
-
-            Product product = new Product("Laptop", 75000, 2, 501);
-            Product.UpdateDiscount(15);
-            if (product is Product) product.Display();
-
-            Student student = new Student("Aman", 2201, "A");
-            if (student is Student) student.Display();
-            Student.DisplayTotalStudents();
-
-            Vehicle vehicle = new Vehicle("Rohit", "Car", "PB10AB1234");
-            Vehicle.UpdateRegistrationFee(6500);
-            if (vehicle is Vehicle) vehicle.Display();
-
-            Patient patient = new Patient("Neha", 24, "Fever", 9001);
-            if (patient is Patient) patient.Display();
-            Patient.GetTotalPatients();
-        }
-    }
+    
+    
 }
