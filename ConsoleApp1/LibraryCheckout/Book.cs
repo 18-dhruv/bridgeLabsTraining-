@@ -6,14 +6,27 @@ public class Book
     public string author { get; }
     public string ISBN { get; }
     public Status status { get; set; }
-    public int Copies { get;} 
-    internal Book(string name, string author,int copies)
+    protected internal Book(string name, string author)
     {
-        this.Copies = copies;
         this.bookName = name;
         this.author = author;
     }
-    
+
+    public override bool Equals(object? o)
+    {
+        if (!(o is Book))
+        {
+            return false;
+        }
+
+        Book b = (Book)o;
+        return author == b.author && bookName == b.bookName;
+    }
+
+    public override int GetHashCode()
+    {
+        return HashCode.Combine(author, bookName);
+    }
 }
 
 public enum Status

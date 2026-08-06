@@ -7,9 +7,6 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
-    <ItemGroup>
-      <Compile Include="obj\BorrowedBooks.cs" />
-      <Compile Include="obj\System.cs" />
-    </ItemGroup>
+   
 
 </Project>

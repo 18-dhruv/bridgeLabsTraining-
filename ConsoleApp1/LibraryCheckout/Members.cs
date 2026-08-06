@@ -14,26 +14,17 @@ public class Members
         BooksCheckout = new List<Book>();
     }
 
-    public void borrowBook(Book book)
+    public override bool Equals(object? obj)
     {
-        if (BooksCheckout.Count >= 3)
+        if (obj is not Members m)
         {
-            throw new BorrowLimitExceeded("u can't borrow more than three books");
+            return false;
         }
-        
-       BooksCheckout.Add(book);
-    }
 
-    public void ReturnBook(Book book)
+        return Name == m.Name && MemberId == m.MemberId;
+    }
+    public override int GetHashCode()
     {
-        if (BooksCheckout.Contains(book))
-        {
-            BooksCheckout.Remove(book);
-        }
-        else
-        {
-            throw new NotBorrowed("book not issued to u");
-        }
-    }   
-    
+        return HashCode.Combine(Name, MemberId);
+    }
 }

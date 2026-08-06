@@ -1,0 +1,15 @@
+/Users/apple/Desktop/bridge labs /ConsoleApp1/LibraryCheckout/obj/Debug/net10.0/LibraryCheckout.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Desktop/bridge labs /ConsoleApp1/LibraryCheckout/obj/Debug/net10.0/LibraryCheckout.AssemblyInfoInputs.cache
+/Users/apple/Desktop/bridge labs /ConsoleApp1/LibraryCheckout/obj/Debug/net10.0/LibraryCheckout.AssemblyInfo.cs
+/Users/apple/Desktop/bridge labs /ConsoleApp1/LibraryCheckout/obj/Debug/net10.0/LibraryCheckout.csproj.CoreCompileInputs.cache
+/Users/apple/Desktop/bridge labs /ConsoleApp1/LibraryCheckout/obj/Debug/net10.0/LibraryCheckout.sourcelink.json
+/Users/apple/Desktop/bridge labs /ConsoleApp1/LibraryCheckout/bin/Debug/net10.0/LibraryCheckout
+/Users/apple/Desktop/bridge labs /ConsoleApp1/LibraryCheckout/bin/Debug/net10.0/LibraryCheckout.deps.json
+/Users/apple/Desktop/bridge labs /ConsoleApp1/LibraryCheckout/bin/Debug/net10.0/LibraryCheckout.runtimeconfig.json
+/Users/apple/Desktop/bridge labs /ConsoleApp1/LibraryCheckout/bin/Debug/net10.0/LibraryCheckout.dll
+/Users/apple/Desktop/bridge labs /ConsoleApp1/LibraryCheckout/bin/Debug/net10.0/LibraryCheckout.pdb
+/Users/apple/Desktop/bridge labs /ConsoleApp1/LibraryCheckout/obj/Debug/net10.0/LibraryCheckout.dll
+/Users/apple/Desktop/bridge labs /ConsoleApp1/LibraryCheckout/obj/Debug/net10.0/refint/LibraryCheckout.dll
+/Users/apple/Desktop/bridge labs /ConsoleApp1/LibraryCheckout/obj/Debug/net10.0/LibraryCheckout.pdb
+/Users/apple/Desktop/bridge labs /ConsoleApp1/LibraryCheckout/obj/Debug/net10.0/LibraryCheckout.genruntimeconfig.cache
+/Users/apple/Desktop/bridge labs /ConsoleApp1/LibraryCheckout/obj/Debug/net10.0/ref/LibraryCheckout.dll
