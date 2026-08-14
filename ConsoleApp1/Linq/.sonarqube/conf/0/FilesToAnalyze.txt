@@ -1,0 +1,12 @@
+﻿/Users/apple/Desktop/bridge labs /ConsoleApp1/Linq/AttendanceRecord.cs
+/Users/apple/Desktop/bridge labs /ConsoleApp1/Linq/AttendanceService.cs
+/Users/apple/Desktop/bridge labs /ConsoleApp1/Linq/Contractor.cs
+/Users/apple/Desktop/bridge labs /ConsoleApp1/Linq/CustomException.cs
+/Users/apple/Desktop/bridge labs /ConsoleApp1/Linq/Employee.cs
+/Users/apple/Desktop/bridge labs /ConsoleApp1/Linq/FullTimeEmployee.cs
+/Users/apple/Desktop/bridge labs /ConsoleApp1/Linq/IPayable.cs
+/Users/apple/Desktop/bridge labs /ConsoleApp1/Linq/Migrations/20260813051713_InitialCreate.cs
+/Users/apple/Desktop/bridge labs /ConsoleApp1/Linq/Migrations/20260813051713_InitialCreate.Designer.cs
+/Users/apple/Desktop/bridge labs /ConsoleApp1/Linq/Migrations/PayrollDbContextModelSnapshot.cs
+/Users/apple/Desktop/bridge labs /ConsoleApp1/Linq/PayrollDbContext.cs
+/Users/apple/Desktop/bridge labs /ConsoleApp1/Linq/Program.cs

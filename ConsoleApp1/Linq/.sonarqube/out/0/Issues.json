@@ -1,0 +1,535 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Microsoft (R) Visual C# Compiler",
+        "version": "5.6.0.0",
+        "fileVersion": "5.6.0-2.26270.133 (96856fd726ffd058fb3dfef0851dbafc7ef3b011)",
+        "semanticVersion": "5.6.0",
+        "language": "en-IN"
+      },
+      "results": [
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Employees' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///Users/apple/Desktop/bridge%20labs%20/ConsoleApp1/Linq/PayrollDbContext.cs",
+                "region": {
+                  "startLine": 7,
+                  "startColumn": 28,
+                  "endLine": 7,
+                  "endColumn": 37
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///Users/apple/Desktop/bridge%20labs%20/ConsoleApp1/Linq/PayrollDbContext.cs",
+                "region": {
+                  "startLine": 7,
+                  "startColumn": 28,
+                  "endLine": 7,
+                  "endColumn": 37
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'FullTimeEmployees' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///Users/apple/Desktop/bridge%20labs%20/ConsoleApp1/Linq/PayrollDbContext.cs",
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 36,
+                  "endLine": 8,
+                  "endColumn": 53
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///Users/apple/Desktop/bridge%20labs%20/ConsoleApp1/Linq/PayrollDbContext.cs",
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 36,
+                  "endLine": 8,
+                  "endColumn": 53
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Contractors' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///Users/apple/Desktop/bridge%20labs%20/ConsoleApp1/Linq/PayrollDbContext.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 30,
+                  "endLine": 9,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///Users/apple/Desktop/bridge%20labs%20/ConsoleApp1/Linq/PayrollDbContext.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 30,
+                  "endLine": 9,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'AttendanceRecords' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///Users/apple/Desktop/bridge%20labs%20/ConsoleApp1/Linq/PayrollDbContext.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 36,
+                  "endLine": 10,
+                  "endColumn": 53
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///Users/apple/Desktop/bridge%20labs%20/ConsoleApp1/Linq/PayrollDbContext.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 36,
+                  "endLine": 10,
+                  "endColumn": 53
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1118",
+          "level": "warning",
+          "message": "Add a 'protected' constructor or the 'static' keyword to the class declaration.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///Users/apple/Desktop/bridge%20labs%20/ConsoleApp1/Linq/Program.cs",
+                "region": {
+                  "startLine": 6,
+                  "startColumn": 14,
+                  "endLine": 6,
+                  "endColumn": 21
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1050",
+          "level": "note",
+          "message": "Declare types in namespaces",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///Users/apple/Desktop/bridge%20labs%20/ConsoleApp1/Linq/Program.cs",
+                "region": {
+                  "startLine": 6,
+                  "startColumn": 14,
+                  "endLine": 6,
+                  "endColumn": 21
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3903",
+          "level": "warning",
+          "message": "Move 'Program' into a named namespace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///Users/apple/Desktop/bridge%20labs%20/ConsoleApp1/Linq/Program.cs",
+                "region": {
+                  "startLine": 6,
+                  "startColumn": 14,
+                  "endLine": 6,
+                  "endColumn": 21
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1144",
+          "level": "warning",
+          "message": "Remove the unused private setter 'set_Id'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///Users/apple/Desktop/bridge%20labs%20/ConsoleApp1/Linq/AttendanceRecord.cs",
+                "region": {
+                  "startLine": 6,
+                  "startColumn": 25,
+                  "endLine": 6,
+                  "endColumn": 37
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1144",
+          "level": "warning",
+          "message": "Remove the unused private setter 'set_Id'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///Users/apple/Desktop/bridge%20labs%20/ConsoleApp1/Linq/Employee.cs",
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 26,
+                  "endLine": 5,
+                  "endColumn": 38
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3376",
+          "level": "warning",
+          "message": "Make this class name end with 'Exception'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///Users/apple/Desktop/bridge%20labs%20/ConsoleApp1/Linq/CustomException.cs",
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 14,
+                  "endLine": 8,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3442",
+          "level": "warning",
+          "message": "Change the visibility of this constructor to 'protected'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///Users/apple/Desktop/bridge%20labs%20/ConsoleApp1/Linq/Employee.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 4,
+                  "endLine": 11,
+                  "endColumn": 10
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1186",
+          "level": "warning",
+          "message": "Add a nested comment explaining why this method is empty, throw a 'NotSupportedException' or complete the implementation.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///Users/apple/Desktop/bridge%20labs%20/ConsoleApp1/Linq/Program.cs",
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 24,
+                  "endLine": 8,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2325",
+          "level": "warning",
+          "message": "Make 'MarkAttendance' a static method.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///Users/apple/Desktop/bridge%20labs%20/ConsoleApp1/Linq/AttendanceService.cs",
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 17,
+                  "endLine": 5,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1822",
+          "level": "note",
+          "message": "Member 'MarkAttendance' does not access instance data and can be marked as static",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///Users/apple/Desktop/bridge%20labs%20/ConsoleApp1/Linq/AttendanceService.cs",
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 17,
+                  "endLine": 5,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "CA1050": {
+          "id": "CA1050",
+          "shortDescription": "Declare types in namespaces",
+          "fullDescription": "Types are declared in namespaces to prevent name collisions and as a way to organize related types in an object hierarchy.",
+          "defaultLevel": "note",
+          "helpUri": "https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1050",
+          "properties": {
+            "category": "Design",
+            "isEnabledByDefault": true,
+            "tags": [
+              "PortedFromFxCop",
+              "Telemetry",
+              "EnabledRuleInAggressiveMode"
+            ]
+          }
+        },
+        "CA1822": {
+          "id": "CA1822",
+          "shortDescription": "Mark members as static",
+          "fullDescription": "Members that do not access instance data or call instance methods can be marked as static. After you mark the methods as static, the compiler will emit nonvirtual call sites to these members. This can give you a measurable performance gain for performance-sensitive code.",
+          "defaultLevel": "note",
+          "helpUri": "https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1822",
+          "properties": {
+            "category": "Performance",
+            "isEnabledByDefault": true,
+            "tags": [
+              "PortedFromFxCop",
+              "Telemetry",
+              "EnabledRuleInAggressiveMode"
+            ]
+          }
+        },
+        "CS8618": {
+          "id": "CS8618",
+          "shortDescription": "Non-nullable field must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring as nullable.",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS8618)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "S1118": {
+          "id": "S1118",
+          "shortDescription": "Utility classes should not have public constructors",
+          "fullDescription": "Whenever there are portions of code that are duplicated and do not depend on the state of their container class, they can be centralized inside a \"utility class\". A utility class is a class that only has static members, hence it should not be instantiated.",
+          "defaultLevel": "warning",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S1144": {
+          "id": "S1144",
+          "shortDescription": "Unused private types or members should be removed",
+          "fullDescription": "This rule raises an issue when a private/internal type or member is never referenced in the code.",
+          "defaultLevel": "warning",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S1186": {
+          "id": "S1186",
+          "shortDescription": "Methods should not be empty",
+          "fullDescription": "An empty method is generally considered bad practice and can lead to confusion, readability, and maintenance issues. Empty methods bring no functionality and are misleading to others as they might think the method implementation fulfills a specific and identified requirement.",
+          "defaultLevel": "warning",
+          "properties": {
+            "category": "Critical Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S2325": {
+          "id": "S2325",
+          "shortDescription": "Methods and properties that don't access instance data should be static",
+          "fullDescription": "Methods and properties that don’t access instance data should be marked as static for the following reasons:",
+          "defaultLevel": "warning",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S3376": {
+          "id": "S3376",
+          "shortDescription": "Attribute, EventArgs, and Exception type names should end with the type being extended",
+          "fullDescription": "Adherence to the standard naming conventions makes your code not only more readable, but more usable. For instance, class FirstAttribute : Attribute can be used simply with First, but you must use the full name for class AttributeOne : Attribute.",
+          "defaultLevel": "warning",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S3442": {
+          "id": "S3442",
+          "shortDescription": "\"abstract\" classes should not have \"public\" constructors",
+          "fullDescription": "The abstract modifier in a class declaration is used to indicate that a class is intended only to be a base class of other classes, not instantiated on its own.",
+          "defaultLevel": "warning",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S3903": {
+          "id": "S3903",
+          "shortDescription": "Types should be defined in named namespaces",
+          "fullDescription": "Types are declared in namespaces in order to prevent name collisions and as a way to organize them into the object hierarchy. Types that are defined outside any named namespace are in a global namespace that cannot be referenced in code.",
+          "defaultLevel": "warning",
+          "properties": {
+            "category": "Major Bug",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

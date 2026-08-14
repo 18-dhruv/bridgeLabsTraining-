@@ -1,0 +1,1 @@
+KR>/Users/apple/Desktop/bridge labs /ConsoleApp1/Linq/Linq.csprojòCSharp14
