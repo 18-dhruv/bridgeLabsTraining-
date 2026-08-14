@@ -4,7 +4,6 @@ public class Book
 {
     public string bookName { get; }
     public string author { get; }
-    public string ISBN { get; }
     public Status status { get; set; }
     protected internal Book(string name, string author)
     {

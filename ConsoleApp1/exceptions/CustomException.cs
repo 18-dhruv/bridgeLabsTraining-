@@ -17,9 +17,7 @@ namespace practiceException
 
   internal class InsuffiecientBalance : Exception
     {
-      internal InsuffiecientBalance(string message) : base(message)
-        {
-        }
-        
+       
+      internal InsuffiecientBalance(string message) : base(message) {}
     }
 }

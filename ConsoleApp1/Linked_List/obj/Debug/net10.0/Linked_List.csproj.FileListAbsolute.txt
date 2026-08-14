@@ -1,0 +1,15 @@
+/Users/apple/Desktop/bridge labs /ConsoleApp1/Linked_List/bin/Debug/net10.0/Linked_List
+/Users/apple/Desktop/bridge labs /ConsoleApp1/Linked_List/bin/Debug/net10.0/Linked_List.deps.json
+/Users/apple/Desktop/bridge labs /ConsoleApp1/Linked_List/bin/Debug/net10.0/Linked_List.runtimeconfig.json
+/Users/apple/Desktop/bridge labs /ConsoleApp1/Linked_List/bin/Debug/net10.0/Linked_List.dll
+/Users/apple/Desktop/bridge labs /ConsoleApp1/Linked_List/bin/Debug/net10.0/Linked_List.pdb
+/Users/apple/Desktop/bridge labs /ConsoleApp1/Linked_List/obj/Debug/net10.0/Linked_List.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Desktop/bridge labs /ConsoleApp1/Linked_List/obj/Debug/net10.0/Linked_List.AssemblyInfoInputs.cache
+/Users/apple/Desktop/bridge labs /ConsoleApp1/Linked_List/obj/Debug/net10.0/Linked_List.AssemblyInfo.cs
+/Users/apple/Desktop/bridge labs /ConsoleApp1/Linked_List/obj/Debug/net10.0/Linked_List.csproj.CoreCompileInputs.cache
+/Users/apple/Desktop/bridge labs /ConsoleApp1/Linked_List/obj/Debug/net10.0/Linked_List.sourcelink.json
+/Users/apple/Desktop/bridge labs /ConsoleApp1/Linked_List/obj/Debug/net10.0/Linked_List.dll
+/Users/apple/Desktop/bridge labs /ConsoleApp1/Linked_List/obj/Debug/net10.0/refint/Linked_List.dll
+/Users/apple/Desktop/bridge labs /ConsoleApp1/Linked_List/obj/Debug/net10.0/Linked_List.pdb
+/Users/apple/Desktop/bridge labs /ConsoleApp1/Linked_List/obj/Debug/net10.0/Linked_List.genruntimeconfig.cache
+/Users/apple/Desktop/bridge labs /ConsoleApp1/Linked_List/obj/Debug/net10.0/ref/Linked_List.dll

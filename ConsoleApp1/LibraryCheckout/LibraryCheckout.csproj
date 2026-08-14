@@ -7,6 +7,10 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Compile Remove="LibraryTest.cs" />
+    </ItemGroup>
+
    
 
 </Project>

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LibraryCheckout")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+981b805b2bc3d63e26eb5a9974ac3cf358e48e24")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2450130f1ca1d90be514a7df653cd6c9459cba8d")]
 [assembly: System.Reflection.AssemblyProductAttribute("LibraryCheckout")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LibraryCheckout")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

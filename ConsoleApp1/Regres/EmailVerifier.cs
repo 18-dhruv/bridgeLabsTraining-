@@ -1,13 +1,15 @@
-using static System.ComponentModel.DataAnnotations.RegularExpressionAttribute;
+using System.Text.RegularExpressions;
 
-namespace Regrex;
+
+namespace Regres;
 
 public class EmailVerifier:IStringCleaner
 {
     public bool IsStringCorrect(string s)
     {
        
-        
-        return true;
+        string d = s.Trim();
+        bool bro=Regex.IsMatch(d, @"^[\w\.-]+@[\w\.-]+\.[A-Za-z]{2,}$");
+        return bro;
     }
 }

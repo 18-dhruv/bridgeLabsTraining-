@@ -3,9 +3,11 @@ using System.ComponentModel;
 
 namespace LibraryCheckout;
 
+
+
 public class Library
 {
-    private static List<BorrowedBooks> BooksBorrowed = new List<BorrowedBooks>();
+    private  List<BorrowedBooks> BooksBorrowed = new List<BorrowedBooks>();
     private Dictionary<Book, int> library = new Dictionary<Book, int>();
     
     
@@ -54,7 +56,7 @@ public class Library
 
     public void ReturnBook(BorrowedBooks book)
     {
-        BorrowedBooks match = BooksBorrowed.Find(b => book.Equals(b));
+        BorrowedBooks? match = BooksBorrowed.Find(b => book.Equals(b));
 
         if (match == null)
         {

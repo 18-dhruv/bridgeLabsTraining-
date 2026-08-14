@@ -1,4 +1,4 @@
-namespace Regrex;
+namespace Regres;
 
 public interface IStringCleaner
 {

@@ -25,4 +25,9 @@ public class BorrowedBooks
 
         return book.Equals(b.book) && member.Equals(b.member);
     }
+
+    public override int GetHashCode()
+    {
+        return HashCode.Combine(book.bookName, member.Name);
+    }
 }

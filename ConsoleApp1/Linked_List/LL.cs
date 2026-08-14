@@ -1,6 +1,6 @@
 namespace LinkedList;
 
-public class LL
+public class LL<T>
 {
-    
+    private Node<T> Head;
 }
