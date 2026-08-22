@@ -2,5 +2,5 @@ projectKey=Linq
 serverUrl=http://localhost:9000
 serverVersion=26.8.0.126808
 dashboardUrl=http://localhost:9000/dashboard?id=Linq
-ceTaskId=2fe2f663-43ea-4f2a-abd2-ff0b82ce467f
-ceTaskUrl=http://localhost:9000/api/ce/task?id=2fe2f663-43ea-4f2a-abd2-ff0b82ce467f
+ceTaskId=e78307e4-ad08-46f8-bc7a-cbf854da716a
+ceTaskUrl=http://localhost:9000/api/ce/task?id=e78307e4-ad08-46f8-bc7a-cbf854da716a

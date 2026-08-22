@@ -14,15 +14,10 @@ namespace String_regrex
         
 
         [TestCase("hello@gmail.com", true)]
-
         [TestCase("john.doe@gmail.com", true)]
-
         [TestCase("hello@gmail", false)]
-
         [TestCase("hello@124.12com", false)]
-
         [TestCase("hello@gmail.c", false)]
-
         [TestCase("hello@gmail.123", false)]
 
         public void EmailValidationTest(string email, bool expected)

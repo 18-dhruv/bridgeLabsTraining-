@@ -9,8 +9,8 @@ public class PayrollDbContext:DbContext
     public DbSet<Contractor> Contractors { get; set; }
     public DbSet<AttendanceRecord> AttendanceRecords { get; set; }
 
-    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+    protected override void OnConfiguring(DbContextOptionsBuilder option)
     { 
-     optionsBuilder.UseNpgsql("Host=localhost;Port=5433;Database=payrolldb;Username=postgres;Password=password");
+     option.UseNpgsql("Host=localhost;Port=5433;Database=payrolldb;Username=postgres;Password=password");
     }
 }

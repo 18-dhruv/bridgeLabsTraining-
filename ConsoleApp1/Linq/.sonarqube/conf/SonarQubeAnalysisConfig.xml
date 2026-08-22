@@ -164,8 +164,8 @@
     <Property Name="sonaranalyzer-vbnet.pluginKey">vbnet</Property>
     <Property Name="sonar.java.jvmframeworkconfig.activate">true</Property>
     <Property Name="sonar.updatecenter.url">https://downloads.sonarsource.com/sonarqube/update/update-center.properties</Property>
-    <Property Name="sonar.core.startTime">11/08/2026 10:20:18 AM</Property>
     <Property Name="sonar.core.id">147B411E-AZ_vKDmXjldoIX-KNh0p</Property>
+    <Property Name="sonar.core.startTime">18/08/2026 2:26:23 PM</Property>
   </ServerSettings>
   <LocalSettings>
     <Property Name="sonar.host.url">http://localhost:9000</Property>
@@ -179,11 +179,11 @@
       <AnalyzerPlugins>
         <AnalyzerPlugin Key="csharp" Version="10.31.0.145097" StaticResourceName="SonarAnalyzer-csharp-10.31.0.145097.zip">
           <AssemblyPaths>
-            <Path>/var/folders/jl/10z_m9w149z6zn2np2vm6c200000gn/T/.sonarqube/resources/0/SonarAnalyzer.CSharp.dll</Path>
-            <Path>/var/folders/jl/10z_m9w149z6zn2np2vm6c200000gn/T/.sonarqube/resources/0/licenses/LICENSE.txt</Path>
-            <Path>/var/folders/jl/10z_m9w149z6zn2np2vm6c200000gn/T/.sonarqube/resources/0/licenses/THIRD_PARTY_LICENSES/Google.Protobuf-LICENSE.txt</Path>
-            <Path>/var/folders/jl/10z_m9w149z6zn2np2vm6c200000gn/T/.sonarqube/resources/0/licenses/THIRD_PARTY_LICENSES/Roslyn-LICENSE.txt</Path>
-            <Path>/var/folders/jl/10z_m9w149z6zn2np2vm6c200000gn/T/.sonarqube/resources/0/licenses/THIRD_PARTY_LICENSES/StyleCop.Analyzers-LICENSE.txt</Path>
+            <Path>/var/folders/jl/10z_m9w149z6zn2np2vm6c200000gn/T/.sonarqube/resources/2/SonarAnalyzer.CSharp.dll</Path>
+            <Path>/var/folders/jl/10z_m9w149z6zn2np2vm6c200000gn/T/.sonarqube/resources/2/licenses/LICENSE.txt</Path>
+            <Path>/var/folders/jl/10z_m9w149z6zn2np2vm6c200000gn/T/.sonarqube/resources/2/licenses/THIRD_PARTY_LICENSES/Google.Protobuf-LICENSE.txt</Path>
+            <Path>/var/folders/jl/10z_m9w149z6zn2np2vm6c200000gn/T/.sonarqube/resources/2/licenses/THIRD_PARTY_LICENSES/Roslyn-LICENSE.txt</Path>
+            <Path>/var/folders/jl/10z_m9w149z6zn2np2vm6c200000gn/T/.sonarqube/resources/2/licenses/THIRD_PARTY_LICENSES/StyleCop.Analyzers-LICENSE.txt</Path>
           </AssemblyPaths>
         </AnalyzerPlugin>
       </AnalyzerPlugins>
@@ -198,11 +198,11 @@
       <AnalyzerPlugins>
         <AnalyzerPlugin Key="vbnet" Version="10.31.0.145097" StaticResourceName="SonarAnalyzer-vbnet-10.31.0.145097.zip">
           <AssemblyPaths>
-            <Path>/var/folders/jl/10z_m9w149z6zn2np2vm6c200000gn/T/.sonarqube/resources/1/SonarAnalyzer.VisualBasic.dll</Path>
-            <Path>/var/folders/jl/10z_m9w149z6zn2np2vm6c200000gn/T/.sonarqube/resources/1/licenses/LICENSE.txt</Path>
-            <Path>/var/folders/jl/10z_m9w149z6zn2np2vm6c200000gn/T/.sonarqube/resources/1/licenses/THIRD_PARTY_LICENSES/Google.Protobuf-LICENSE.txt</Path>
-            <Path>/var/folders/jl/10z_m9w149z6zn2np2vm6c200000gn/T/.sonarqube/resources/1/licenses/THIRD_PARTY_LICENSES/Roslyn-LICENSE.txt</Path>
-            <Path>/var/folders/jl/10z_m9w149z6zn2np2vm6c200000gn/T/.sonarqube/resources/1/licenses/THIRD_PARTY_LICENSES/StyleCop.Analyzers-LICENSE.txt</Path>
+            <Path>/var/folders/jl/10z_m9w149z6zn2np2vm6c200000gn/T/.sonarqube/resources/3/SonarAnalyzer.VisualBasic.dll</Path>
+            <Path>/var/folders/jl/10z_m9w149z6zn2np2vm6c200000gn/T/.sonarqube/resources/3/licenses/LICENSE.txt</Path>
+            <Path>/var/folders/jl/10z_m9w149z6zn2np2vm6c200000gn/T/.sonarqube/resources/3/licenses/THIRD_PARTY_LICENSES/Google.Protobuf-LICENSE.txt</Path>
+            <Path>/var/folders/jl/10z_m9w149z6zn2np2vm6c200000gn/T/.sonarqube/resources/3/licenses/THIRD_PARTY_LICENSES/Roslyn-LICENSE.txt</Path>
+            <Path>/var/folders/jl/10z_m9w149z6zn2np2vm6c200000gn/T/.sonarqube/resources/3/licenses/THIRD_PARTY_LICENSES/StyleCop.Analyzers-LICENSE.txt</Path>
           </AssemblyPaths>
         </AnalyzerPlugin>
       </AnalyzerPlugins>

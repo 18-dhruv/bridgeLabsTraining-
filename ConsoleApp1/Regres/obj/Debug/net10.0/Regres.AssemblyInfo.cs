@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Regres")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2450130f1ca1d90be514a7df653cd6c9459cba8d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d815632182e455246d989818bb154a9aa604f094")]
 [assembly: System.Reflection.AssemblyProductAttribute("Regres")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Regres")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

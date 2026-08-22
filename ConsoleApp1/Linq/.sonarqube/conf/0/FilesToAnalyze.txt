@@ -10,3 +10,4 @@
 /Users/apple/Desktop/bridge labs /ConsoleApp1/Linq/Migrations/PayrollDbContextModelSnapshot.cs
 /Users/apple/Desktop/bridge labs /ConsoleApp1/Linq/PayrollDbContext.cs
 /Users/apple/Desktop/bridge labs /ConsoleApp1/Linq/Program.cs
+/Users/apple/Desktop/bridge labs /ConsoleApp1/Linq/obj/Debug/net10.0/apphost

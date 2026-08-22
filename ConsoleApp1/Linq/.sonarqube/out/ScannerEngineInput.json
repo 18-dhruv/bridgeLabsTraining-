@@ -10,7 +10,7 @@
     },
     {
       "key": "sonar.scanner.bootstrapStartTime",
-      "value": "1786602225000"
+      "value": "1787043825000"
     },
     {
       "key": "sonar.projectKey",
@@ -38,46 +38,46 @@
     },
     {
       "key": "sonar.modules",
-      "value": "875769E2-57D0-4D4D-91C2-74E17DF1A4D4"
+      "value": "2BDD7CF8-484E-44AD-9B6B-5AADFCE4A95F"
     },
     {
-      "key": "875769E2-57D0-4D4D-91C2-74E17DF1A4D4.sonar.projectKey",
-      "value": "Linq:875769E2-57D0-4D4D-91C2-74E17DF1A4D4"
+      "key": "2BDD7CF8-484E-44AD-9B6B-5AADFCE4A95F.sonar.projectKey",
+      "value": "Linq:2BDD7CF8-484E-44AD-9B6B-5AADFCE4A95F"
     },
     {
-      "key": "875769E2-57D0-4D4D-91C2-74E17DF1A4D4.sonar.projectName",
+      "key": "2BDD7CF8-484E-44AD-9B6B-5AADFCE4A95F.sonar.projectName",
       "value": "Linq"
     },
     {
-      "key": "875769E2-57D0-4D4D-91C2-74E17DF1A4D4.sonar.projectBaseDir",
+      "key": "2BDD7CF8-484E-44AD-9B6B-5AADFCE4A95F.sonar.projectBaseDir",
       "value": "/Users/apple/Desktop/bridge labs /ConsoleApp1/Linq"
     },
     {
-      "key": "875769E2-57D0-4D4D-91C2-74E17DF1A4D4.sonar.working.directory",
+      "key": "2BDD7CF8-484E-44AD-9B6B-5AADFCE4A95F.sonar.working.directory",
       "value": "/Users/apple/Desktop/bridge labs /ConsoleApp1/Linq/.sonarqube/out/.sonar/mod0"
     },
     {
-      "key": "875769E2-57D0-4D4D-91C2-74E17DF1A4D4.sonar.sourceEncoding",
+      "key": "2BDD7CF8-484E-44AD-9B6B-5AADFCE4A95F.sonar.sourceEncoding",
       "value": "utf-8"
     },
     {
-      "key": "875769E2-57D0-4D4D-91C2-74E17DF1A4D4.sonar.tests",
+      "key": "2BDD7CF8-484E-44AD-9B6B-5AADFCE4A95F.sonar.tests",
       "value": ""
     },
     {
-      "key": "875769E2-57D0-4D4D-91C2-74E17DF1A4D4.sonar.sources",
-      "value": "/Users/apple/Desktop/bridge labs /ConsoleApp1/Linq/AttendanceRecord.cs,/Users/apple/Desktop/bridge labs /ConsoleApp1/Linq/AttendanceService.cs,/Users/apple/Desktop/bridge labs /ConsoleApp1/Linq/Contractor.cs,/Users/apple/Desktop/bridge labs /ConsoleApp1/Linq/CustomException.cs,/Users/apple/Desktop/bridge labs /ConsoleApp1/Linq/Employee.cs,/Users/apple/Desktop/bridge labs /ConsoleApp1/Linq/FullTimeEmployee.cs,/Users/apple/Desktop/bridge labs /ConsoleApp1/Linq/IPayable.cs,/Users/apple/Desktop/bridge labs /ConsoleApp1/Linq/Migrations/20260813051713_InitialCreate.cs,/Users/apple/Desktop/bridge labs /ConsoleApp1/Linq/Migrations/20260813051713_InitialCreate.Designer.cs,/Users/apple/Desktop/bridge labs /ConsoleApp1/Linq/Migrations/PayrollDbContextModelSnapshot.cs,/Users/apple/Desktop/bridge labs /ConsoleApp1/Linq/PayrollDbContext.cs,/Users/apple/Desktop/bridge labs /ConsoleApp1/Linq/Program.cs,/Users/apple/Desktop/bridge labs /ConsoleApp1/Linq/obj/Linq.csproj.nuget.dgspec.json,/Users/apple/Desktop/bridge labs /ConsoleApp1/Linq/obj/project.packagespec.json,/Users/apple/Desktop/bridge labs /ConsoleApp1/Linq/obj/project.assets.json,/Users/apple/Desktop/bridge labs /ConsoleApp1/Linq/obj/Debug/net10.0/Linq.sourcelink.json,/Users/apple/Desktop/bridge labs /ConsoleApp1/Linq/bin/Debug/net10.0/Linq.runtimeconfig.json,/Users/apple/Desktop/bridge labs /ConsoleApp1/Linq/bin/Debug/net10.0/Linq.deps.json,/Users/apple/Desktop/bridge labs /ConsoleApp1/Linq/bin/Debug/net10.0/BuildHost-net472/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.exe.config,/Users/apple/Desktop/bridge labs /ConsoleApp1/Linq/bin/Debug/net10.0/BuildHost-netcore/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.deps.json,/Users/apple/Desktop/bridge labs /ConsoleApp1/Linq/bin/Debug/net10.0/BuildHost-netcore/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.runtimeconfig.json"
+      "key": "2BDD7CF8-484E-44AD-9B6B-5AADFCE4A95F.sonar.sources",
+      "value": "/Users/apple/Desktop/bridge labs /ConsoleApp1/Linq/AttendanceRecord.cs,/Users/apple/Desktop/bridge labs /ConsoleApp1/Linq/AttendanceService.cs,/Users/apple/Desktop/bridge labs /ConsoleApp1/Linq/Contractor.cs,/Users/apple/Desktop/bridge labs /ConsoleApp1/Linq/CustomException.cs,/Users/apple/Desktop/bridge labs /ConsoleApp1/Linq/Employee.cs,/Users/apple/Desktop/bridge labs /ConsoleApp1/Linq/FullTimeEmployee.cs,/Users/apple/Desktop/bridge labs /ConsoleApp1/Linq/IPayable.cs,/Users/apple/Desktop/bridge labs /ConsoleApp1/Linq/Migrations/20260813051713_InitialCreate.cs,/Users/apple/Desktop/bridge labs /ConsoleApp1/Linq/Migrations/20260813051713_InitialCreate.Designer.cs,/Users/apple/Desktop/bridge labs /ConsoleApp1/Linq/Migrations/PayrollDbContextModelSnapshot.cs,/Users/apple/Desktop/bridge labs /ConsoleApp1/Linq/PayrollDbContext.cs,/Users/apple/Desktop/bridge labs /ConsoleApp1/Linq/Program.cs,/Users/apple/Desktop/bridge labs /ConsoleApp1/Linq/obj/Debug/net10.0/apphost,/Users/apple/Desktop/bridge labs /ConsoleApp1/Linq/obj/Linq.csproj.nuget.dgspec.json,/Users/apple/Desktop/bridge labs /ConsoleApp1/Linq/obj/project.packagespec.json,/Users/apple/Desktop/bridge labs /ConsoleApp1/Linq/obj/project.assets.json,/Users/apple/Desktop/bridge labs /ConsoleApp1/Linq/obj/Debug/net10.0/Linq.sourcelink.json,/Users/apple/Desktop/bridge labs /ConsoleApp1/Linq/bin/Debug/net10.0/Linq.runtimeconfig.json,/Users/apple/Desktop/bridge labs /ConsoleApp1/Linq/bin/Debug/net10.0/Linq.deps.json"
     },
     {
-      "key": "875769E2-57D0-4D4D-91C2-74E17DF1A4D4.sonar.cs.analyzer.projectOutPaths",
+      "key": "2BDD7CF8-484E-44AD-9B6B-5AADFCE4A95F.sonar.cs.analyzer.projectOutPaths",
       "value": "/Users/apple/Desktop/bridge labs /ConsoleApp1/Linq/.sonarqube/out/0"
     },
     {
-      "key": "875769E2-57D0-4D4D-91C2-74E17DF1A4D4.sonar.cs.roslyn.reportFilePaths",
+      "key": "2BDD7CF8-484E-44AD-9B6B-5AADFCE4A95F.sonar.cs.roslyn.reportFilePaths",
       "value": "/Users/apple/Desktop/bridge labs /ConsoleApp1/Linq/.sonarqube/out/0/Issues.json"
     },
     {
-      "key": "875769E2-57D0-4D4D-91C2-74E17DF1A4D4.sonar.cs.scanner.telemetry",
+      "key": "2BDD7CF8-484E-44AD-9B6B-5AADFCE4A95F.sonar.cs.scanner.telemetry",
       "value": "/Users/apple/Desktop/bridge labs /ConsoleApp1/Linq/.sonarqube/out/0/Telemetry.json"
     },
     {
