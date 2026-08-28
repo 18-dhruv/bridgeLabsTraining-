@@ -22,6 +22,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SubDomainAnalyser", "SubDom
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HospitalER", "HospitalER\HospitalER.csproj", "{37C47950-2968-402F-91EE-03BDC8F139E4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kitchen System", "Kitchen System\Kitchen System.csproj", "{E8EF0C73-CB5F-45C1-9420-512CD11D89D1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Review4", "Review4", "{F1FE67C7-4132-4D71-9E17-B86B2710E6C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -59,5 +63,12 @@ Global
 		{37C47950-2968-402F-91EE-03BDC8F139E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{37C47950-2968-402F-91EE-03BDC8F139E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37C47950-2968-402F-91EE-03BDC8F139E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8EF0C73-CB5F-45C1-9420-512CD11D89D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8EF0C73-CB5F-45C1-9420-512CD11D89D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8EF0C73-CB5F-45C1-9420-512CD11D89D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8EF0C73-CB5F-45C1-9420-512CD11D89D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F1FE67C7-4132-4D71-9E17-B86B2710E6C9} = {6FA70D04-2752-4C47-BF16-AF30F36C1C38}
 	EndGlobalSection
 EndGlobal

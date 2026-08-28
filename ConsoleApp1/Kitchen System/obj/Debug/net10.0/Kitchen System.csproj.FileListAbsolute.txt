@@ -1,0 +1,6 @@
+/Users/apple/Desktop/bridge labs /ConsoleApp1/Kitchen System/obj/Debug/net10.0/Kitchen System.csproj.AssemblyReference.cache
+/Users/apple/Desktop/bridge labs /ConsoleApp1/Kitchen System/obj/Debug/net10.0/Kitchen System.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Desktop/bridge labs /ConsoleApp1/Kitchen System/obj/Debug/net10.0/Kitchen System.AssemblyInfoInputs.cache
+/Users/apple/Desktop/bridge labs /ConsoleApp1/Kitchen System/obj/Debug/net10.0/Kitchen System.AssemblyInfo.cs
+/Users/apple/Desktop/bridge labs /ConsoleApp1/Kitchen System/obj/Debug/net10.0/Kitchen System.csproj.CoreCompileInputs.cache
+/Users/apple/Desktop/bridge labs /ConsoleApp1/Kitchen System/obj/Debug/net10.0/Kitchen System.sourcelink.json
