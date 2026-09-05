@@ -26,6 +26,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kitchen System", "Kitchen S
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Review4", "Review4", "{F1FE67C7-4132-4D71-9E17-B86B2710E6C9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinanceTracker", "FinanceTracker\FinanceTracker.csproj", "{8D7E0BD3-CFE7-481C-A8CD-1A3EB30765B8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -38,7 +40,6 @@ Global
 		{A514DD0C-3C1C-4DF5-9473-BB427D213A1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{A514DD0C-3C1C-4DF5-9473-BB427D213A1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A514DD0C-3C1C-4DF5-9473-BB427D213A1A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A514DD0C-3C1C-4DF5-9473-BB427D213A1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58215855-0F46-4689-B437-779ACE9C08F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{58215855-0F46-4689-B437-779ACE9C08F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58215855-0F46-4689-B437-779ACE9C08F8}.Release|Any CPU.Build.0 = Release|Any CPU
@@ -64,9 +65,12 @@ Global
 		{37C47950-2968-402F-91EE-03BDC8F139E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37C47950-2968-402F-91EE-03BDC8F139E4}.Release|Any CPU.Build.0 = Release|Any CPU
 		{E8EF0C73-CB5F-45C1-9420-512CD11D89D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E8EF0C73-CB5F-45C1-9420-512CD11D89D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E8EF0C73-CB5F-45C1-9420-512CD11D89D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E8EF0C73-CB5F-45C1-9420-512CD11D89D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D7E0BD3-CFE7-481C-A8CD-1A3EB30765B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D7E0BD3-CFE7-481C-A8CD-1A3EB30765B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D7E0BD3-CFE7-481C-A8CD-1A3EB30765B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D7E0BD3-CFE7-481C-A8CD-1A3EB30765B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{F1FE67C7-4132-4D71-9E17-B86B2710E6C9} = {6FA70D04-2752-4C47-BF16-AF30F36C1C38}
